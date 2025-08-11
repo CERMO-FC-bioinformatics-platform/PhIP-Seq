@@ -1,2 +1,2 @@
 # PhIP-Seq
-This repository contains code used to perform PhIP-Seq analysis using the edgeR package in R.
+R scripts for analyzing PhIP-Seq data using the edgeR package. Includes normalization, dispersion estimation, MDS plotting, and differential enrichment analysis.
