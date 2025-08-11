@@ -43,4 +43,9 @@ This repository contains an R script for analyzing PhIP-Seq data using the `edge
   - Differential expression results
   - MD plots
   - Saved edgeR objects
-
+## References & Resources
+This analysis pipeline and its implementation were developed by adapting approaches from multiple sources, including:
+- The BEER application paper for PhIP-Seq data analysis
+- The edgeR user manual and official documentation
+- Open-access tutorials, GitHub repositories, discussion forums, and public GitHub Issues
+- General community knowledge
